@@ -1,0 +1,10 @@
+{
+  "name": "binarytree",
+  "version": "1.0.0",
+  "scripts": {
+    "tree": "run-func index.js printBinaryTree"
+  },
+  "dependencies": {
+    "run-func": "^1.0.5"
+  }
+}
